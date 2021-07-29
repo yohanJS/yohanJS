@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yohan Garcia
-- 👀 I’m interested in learning as much as I can
-- 🌱 I’m currently learning .Net, C#, and everything I can
-- 💞️ I’m looking to collaborate 
+- 👀 ********************
+- 🌱 I’m currently learning ASP.Net MVC, C#.
+- 💞️ I’m looking to collaborate.
 - 📫 CHECK OUT my Website www.yohancraft.com
 
 <!---
