@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yohan Garcia
 - 👀 ********************
-- 🌱 I’m currently learning ASP.Net Core Web App (ModelViewController).
+- 🌱 I’m currently learning ASP.Net Framework (Model View Controller).
 - 🌱 I am also learning Sitecore   
 - 💞️ I’m looking to collaborate.
 - 📫 CHECK OUT my Website www.yohangarcia.me
