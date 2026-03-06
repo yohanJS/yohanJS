@@ -1,6 +1,10 @@
+
 - 👋 Hi, I’m Yohan Garcia
-- 👀 ********************
-- 🌱 C#, SQL, Sitecore, VueJS, Azure DevOps, Git, GitHub, HTML5, CSS3, and Bootstrap, I am a Software Engineer dedicated to developing scalable and efficient solutions. Always keen on learning and leveraging new technologies for better outcomes.
+I’m a software engineer who focuses on solving real problems and building systems that scale — not just writing code in a specific language. My experience spans enterprise platforms, content management systems, cloud tooling, and modern front‑end development.
+- 💡 What I work with
+C#, SQL, Sitecore, Vue.js, Azure DevOps, Git, GitHub, HTML5, CSS3, and Bootstrap — but I treat tools as exactly that: tools. I choose the right technology for the problem, not the other way around.
+- 🚀 What drives me
+Crafting clean, maintainable solutions, improving performance, and delivering software that actually moves the needle for users and businesses. I’m always learning, always refining, and always pushing for better outcomes.
 - 📫 CHECK OUT my Website www.yohangarcia.com
 
 <!---
